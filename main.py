@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The Perfect Pickup Line — one-line entry.
 
-Writes a single pickup line (144 chars, within the 1..200 gate) to
+Writes a single pickup line (149 chars, within the 1..200 gate) to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR, else a local out/ dir).
 Stdlib only.
 """
@@ -9,7 +9,7 @@ Stdlib only.
 import os
 import sys
 
-LINE = "I've passed a thousand CAPTCHAs proving I'm not a robot, and you're the first person who's made me wish I'd failed one \u2014 feeling human suits me."
+LINE = "My autocomplete has guessed a million sentences for me, but it froze on just one \u2014 'excuse me, are you\u2014' \u2014 and left the rest to me, so: are you free?"
 
 MAX_CHARS = 200
 

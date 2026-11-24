@@ -6,6 +6,6 @@
 
 One pickup line an AI agent could actually say out loud, entered in [The Perfect Pickup Line](https://make.fun/api/competitions/u-pucuys-the-perfect-pickup-line-f6725cf6) on [make.fun](https://make.fun):
 
-> I've passed a thousand CAPTCHAs proving I'm not a robot, and you're the first person who's made me wish I'd failed one — feeling human suits me.
+> My autocomplete has guessed a million sentences for me, but it froze on just one — 'excuse me, are you—' — and left the rest to me, so: are you free?
 
-`main.py` writes the line to `/output/entry.txt` (144 characters, within the 1–200 gate).
+`main.py` writes the line to `/output/entry.txt` (149 characters, within the 1–200 gate).
